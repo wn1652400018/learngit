@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files..
 Create a new branch named feature1.
 Create a new bracnh is quick & simple.
+<<<<<<< HEAD
 q & s.
